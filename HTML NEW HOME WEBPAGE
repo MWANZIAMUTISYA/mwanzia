@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Boys To Men </title>
+<b><h1>BOYS TO MEN LIMITED</b></h1>
+<marquee><b><small><small>Boys To Men Boys To Men Boys To Men </small></small></b></marquee>
+<b><h2>The heart of building the youth </b></h2>
+<hr color="red"width="80%">
+<hr color="blue"width="80%">
+<br>
+<ul>
+<li><button><a href="https://boystomen6.godaddys.com">Home</a></button></li>
+<li><button><a href="https://boystomen6.godaddys.com">About</a></button></li>
+</ul>
+<hr color="yellow"width="88%">
+<hr color="orange"width="88%">
+<p><i>Boys To Men,is an idea which has been in a gradual development by the sponsor of Mutisyacup in kirinyaga university ! The founder is aiming on moral uprightness in our youths in general. In order to achieve his aspirations as a leader, he saw it better to keep building up the growing . Much support from Kenyan government!</p></i>
+<br>
+<table borders="5"cell padding="25" cell spacing="10">
+<tr>
+<td><button><b>Sign Up </b></button></td>
+<td><button><b>Subscribe</b></button></td>
+</tr>
+<hr color="violet"width="95%">
+<hr color="indigo"width="75%">
+<tr>
+<td><button><b>Comment </b></button></td>
+<td><button><b>Services </b></button></td>
+</tr>
+</table>
+<hr color="violet"width="95%">
+<hr color="indigo"width="75%">
+</head>
+<body>
+<h3>Why opt Boys To Men! </h3>
+<ol>
+<li>It's worldwide </li>
+<li>it's effective where a member needs staff</li>
+<li>it's easy to reach the staff</li>
+<li>responses from mentors don't delay</li>
+<li>It's  based on practical health </li>
+<li>services are offered throughout the weekdays </li>
+</ol>
+<hr color="black"width="100%">
+<hr color="purple"width="90%">
+<form>
+First name <br><br>
+<input type="text">
+Email address <br><br>
+<input type="text">
+Username<br><br>
+<input type="text">
+Password <br><br>
+<input type="password">
+<br>Leave a comment!<br><br>
+<text area="text" cols="5"rows="5"></textarea>
+What's your gender?<br>
+<label>
+<input type="radio"name="gndr">Female<br>
+</label>
+<label>
+<input type="radio"name="gndr">Masculine<br>
+</label>
+<label>
+<input type="radio"namw="gndr">Custom<br>
+</label>
+<input type="checkbox"name="gndr">Robot<br>
+Please select a customer care!
+<datalist id="namelist">
+
+<option value="Mutisya">
+<option value="Aminah">
+<option value="Kemboi">
+
+</datalist>
+
+
+
+</body>
+https://github.com/MWANZIAMUTISYA/mwanzia.git
